@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/MARIO/Documents/monogame/playground/Shooting/Content/Bullet.png","C:/Users/MARIO/Documents/monogame/playground/Shooting/Content/bin/DesktopGL/Bullet.xnb","TextureProcessor","Texture2DContent",189,185,0,4826292
+"C:/Users/MARIO/Documents/monogame/playground/Shooting/Content/Enemy.png","C:/Users/MARIO/Documents/monogame/playground/Shooting/Content/bin/DesktopGL/Enemy.xnb","TextureProcessor","Texture2DContent",3994,15485,0,0102052
+"C:/Users/MARIO/Documents/monogame/playground/Shooting/Content/Font.spritefont","C:/Users/MARIO/Documents/monogame/playground/Shooting/Content/bin/DesktopGL/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0,3284356
+"C:/Users/MARIO/Documents/monogame/playground/Shooting/Content/Jaiki.png","C:/Users/MARIO/Documents/monogame/playground/Shooting/Content/bin/DesktopGL/Jaiki.xnb","TextureProcessor","Texture2DContent",5458,15485,0,0091367
